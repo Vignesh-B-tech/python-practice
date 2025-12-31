@@ -1,1 +1,2 @@
-a=in
+a=input()
+print(a)
